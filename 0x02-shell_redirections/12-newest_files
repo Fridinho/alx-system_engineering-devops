@@ -1,2 +1,2 @@
 #!/bin/bash
-ind . -type d -not -name '.'| wc -l
+ls -t1 | head
